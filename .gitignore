@@ -1,0 +1,21 @@
+# Stata temporary files
+*.stswp
+*.stsw
+*.dta
+*.gph
+*.smcl
+*.log
+*.ster
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
