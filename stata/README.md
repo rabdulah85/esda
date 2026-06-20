@@ -1,6 +1,6 @@
 # Exploratory Spatial Data Analysis (ESDA)
 
-Replication code for ESDA tutorials published at [regio28.com](https://regio28.com). Each folder contains code for the same analysis implemented across different tools.
+Replication code for ESDA tutorials published at [regio28.com](https://regio28.com/2026/01/03/exploratory-spatial-data-analysis-stata-application-1/). Each folder contains code for the same analysis implemented across different tools.
 
 ---
 
